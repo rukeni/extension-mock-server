@@ -2,15 +2,18 @@
   "bookmarks": [
     {
       "title": "Google",
-      "url": "http://www.google.com"
+      "url": "http://www.google.com",
+      "id": 1
     },
     {
       "title": "Yahoo",
-      "url": "http://www.yahoo.com"
+      "url": "http://www.yahoo.com",
+      "id": 2
     },
     {
       "title": "Bing",
-      "url": "http://www.bing.com"
+      "url": "http://www.bing.com",
+      "id": 3
     }
   ],
   "tabs": []
